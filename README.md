@@ -1,5 +1,5 @@
 # PRAXIS 2018 - Front End Development
-PSL education program
+PSL education program/ front end development **22.02.2018**
 
 ## Homework
 
@@ -16,5 +16,7 @@ PSL education program
 ### Deadline
 
 - Tuesday 27th February - 24:00
+
 **The changes committed after the deadline will not be graded**
+
 **Give your best and show up your imagination capacity**

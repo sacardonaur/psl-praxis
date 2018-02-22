@@ -20,3 +20,5 @@ PSL education program/ front end development **22.02.2018**
 **The changes committed after the deadline will not be graded**
 
 **Give your best and show up your imagination capacity**
+
+jdtorregrosas@gmail.com

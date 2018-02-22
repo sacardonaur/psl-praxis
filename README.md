@@ -15,7 +15,7 @@ PSL education program/ front end development **22.02.2018**
 
 ### Deadline
 
-- Tuesday 27th February - 24:00
+- wednesday 28th February - 24:00
 
 **The changes committed after the deadline will not be graded**
 

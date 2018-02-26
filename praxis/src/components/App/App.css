@@ -21,3 +21,34 @@
 .App-intro {
   font-size: large;
 }
+
+.App-heroes-title {
+  border: 10px solid black;
+  color: #ffffff; 
+  background: #ff4a4a; 
+  font-family: 'Raleway',sans-serif; 
+  font-size: 62px; font-weight: 800; 
+  line-height: 72px; margin: 0 0 0px; 
+  text-align: center; text-transform: 
+  uppercase; 
+  padding: 10px;
+}
+.App-heroes-list {
+	border: 10px solid black;
+ 	background: #D64541;
+}
+.App-enemies-title {
+  color: #ffffff; 
+  background: #006400; 
+  font-family: 'Raleway',sans-serif; 
+  font-size: 62px; font-weight: 800; 
+  line-height: 72px; margin: 0 0 0px; 
+  text-align: center; text-transform: 
+  uppercase; 
+  padding: 10px;
+}
+.App-enemies-list {
+	border: 10px solid black;
+ 	background: #2E8B57;
+
+}
